@@ -7,5 +7,5 @@
   +  Requirement 5: Find a cycle or an Euler path
 - For more information refer:
   + [122023-CSC00008-LTDT-Project](https://github.com/phanngocha99/A-Bit-Of-Graph-Theory/blob/main/122023-CSC00008-LTDT-Project.pdf)
-  + [Cơ sở lý thuyết]([https://github.com/phanngocha99/A-Bit-Of-Graph-Theory/blob/main/122023-CSC00008-LTDT-Project.pdf](https://github.com/phanngocha99/A-Bit-Of-Graph-Theory/blob/main/C%C6%A1%20s%E1%BB%9F%20l%C3%BD%20thuy%E1%BA%BFt.pdf))
+  + [Cơ sở lý thuyết](https://github.com/phanngocha99/A-Bit-Of-Graph-Theory/blob/main/C%C6%A1%20s%E1%BB%9F%20l%C3%BD%20thuy%E1%BA%BFt.pdf)
 - Note: Copy the files in the SampleData folder to drive C
