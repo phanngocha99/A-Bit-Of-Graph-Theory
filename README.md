@@ -1,0 +1,1 @@
+- Copy các file trong thư mục SampleData vào ổ đĩa C
